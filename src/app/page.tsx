@@ -34,7 +34,7 @@ export default function Home() {
           ]}
           wrapper="span"
           speed={40}
-          style={{ fontSize: "2em", fontWeight: "bold" }}
+          style={{ fontSize: "5em", fontWeight: "bold" }}
           repeat={Infinity}
         />
         <div className="justify-center text-center mt-8 mb-12">
